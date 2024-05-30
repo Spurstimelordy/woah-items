@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  3",
+      " 2 ",
+      "1  "
+    ],
+    "key": {
+      "1": {
+        "item": "feather"
+      },
+      "2": {
+        "item": "minecraft:stick"
+      },
+      "3": {
+        "item": "minecraft:netherite_sword"
+      }
+    
+    },
+    "result": {
+      "item": "minecraft:structure_void",
+      "count": 1
+    }
+  }
