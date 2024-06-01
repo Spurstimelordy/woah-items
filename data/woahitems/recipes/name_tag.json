@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "123",
+      "   "
+    ],
+    "key": {
+      "1": {
+        "item": "quartz"
+      },
+      "2": {
+        "item": "minecraft:paper"
+      },
+      "3": {
+        "item": "minecraft:iron_ingot"
+      }
+    
+    },
+    "result": {
+      "item": "minecraft:name_tag",
+      "count": 1
+    }
+  }

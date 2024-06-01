@@ -1,31 +1,31 @@
 {
-  "type": "minecraft:overworld",
+  "type": "woahitems:shadow_realm_type",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "minecraft:caves",
+    "settings": "minecraft:overworld",
     "biome_source": {
       "type": "minecraft:multi_noise",
       "biomes": [
         {
-          "biome": "minecraft:deep_dark",
+          "biome": "minecraft:snowy_taiga",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
             "continentalness": 0,
-            "erosion": 0,
+            "erosion": 1,
             "weirdness": 0,
             "depth": 0,
             "offset": 0
           }
         },
         {
-          "biome": "minecraft:lush_caves",
+          "biome": "minecraft:ice_spikes",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
             "continentalness": 0,
             "erosion": 0,
-            "weirdness": 0,
+            "weirdness": 1,
             "depth": 0,
             "offset": 0
           }
