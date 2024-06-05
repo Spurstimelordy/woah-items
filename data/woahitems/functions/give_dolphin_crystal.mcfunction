@@ -1,0 +1,1 @@
+give @s prismarine_shard{display:{Name:'{"text":"Dolphin Crystal","color":"aqua","bold":true}',Lore:['{"text":"The dolphin\'s power","color":"dark_purple"}']}, Tags:["dolphincrystal"]} 1
