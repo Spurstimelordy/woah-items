@@ -1,0 +1,13 @@
+{
+    "name": "woahitems:banhammerstruc",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "location": "woahitems:banhammerstruc/banhammerstone",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}
